@@ -133,3 +133,4 @@ Lessons/
 *.pkl
 HW/data/
 HW/*/logs/
+.idea
