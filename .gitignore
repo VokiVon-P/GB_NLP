@@ -134,3 +134,6 @@ Lessons/
 HW/data/
 HW/*/logs/
 .idea
+bla_bla_project/models
+data
+*.env
